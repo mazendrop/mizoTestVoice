@@ -17,10 +17,7 @@ export default function HeroSection() {
                     transition={{ duration: 0.5 }}
                     className="space-y-4 max-w-3xl"
                 >
-                    <div className="inline-flex items-center rounded-full border border-gray-medium bg-gray-dark px-3 py-1 text-sm text-primary mb-4">
-                        <span className="flex h-2 w-2 rounded-full bg-primary mr-2 animate-pulse"></span>
-                        Now Available via Web & API
-                    </div>
+
 
                     <h1 className="text-5xl md:text-7xl lg:text-8xl font-thin tracking-tight text-white mb-6">
                         Capture Your <br />
